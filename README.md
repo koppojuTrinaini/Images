@@ -11,3 +11,9 @@
 <img width="736" height="736" alt="img1" src="https://github.com/user-attachments/assets/94c94890-9c40-4986-994f-824ba7d4101c" />
 
 <img width="626" height="626" alt="profile" src="https://github.com/user-attachments/assets/8139a6e1-afb3-409d-8a54-6cf0627db2e2" />
+
+
+
+
+Certificates
+![C for Beginners](https://github.com/user-attachments/assets/d6656b6e-1079-4a32-ad56-dcf2fb251cfd)
